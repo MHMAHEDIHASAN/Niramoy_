@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Pharmacy_Management_System_1._0.AdministratorUC
 {
     public partial class UC_Profile : UserControl
