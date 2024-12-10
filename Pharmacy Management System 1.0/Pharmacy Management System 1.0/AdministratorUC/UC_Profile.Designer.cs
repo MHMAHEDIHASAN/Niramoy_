@@ -3,7 +3,7 @@
     partial class UC_Profile
     {
        
-        /// Required designer variable.
+        
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
