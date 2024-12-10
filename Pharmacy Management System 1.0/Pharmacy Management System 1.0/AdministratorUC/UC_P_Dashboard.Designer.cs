@@ -1,4 +1,5 @@
-﻿namespace Pharmacy_Management_System_1._0.AdministratorUC
+
+namespace Pharmacy_Management_System_1._0.AdministratorUC
 {
     partial class UC_P_Dashboard
     {
